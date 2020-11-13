@@ -6,7 +6,7 @@ Allan Cedric G. B. Alves da Silva :sunglasses:
 
 :smiley: Áreas de interesse:
 
-    - Sistemas embarcados | IoT | IA | Web | Mobile
+    - Sistemas embarcados | Robótica | IoT | IA | Web | Mobile 
 
 :speech_balloon: Contato:
 
