@@ -1,6 +1,7 @@
-<h3> Allan Cedric G. B. Alves da Silva </h3>
+Allan Cedric G. B. Alves da Silva
 
-<h5>🏛️ UFPR - Computer Science</h5>
-<h5>💬 acgbas19@inf.ufpr.br</h4>
+🏛️ Estudante de Ciência da Computação - UFPR
+💬 acgbas19@inf.ufpr.br
 
-<h5>🐝 Yapira UFPR Robotics Team</h5>
+
+🐝 Yapira UFPR Robotics Team
