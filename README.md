@@ -1,8 +1,8 @@
 ## Allan Cedric G. B. Alves da Silva :sunglasses:
 
-:classical_building: Estudante de Ciência da Computação - UFPR
+:classical_building: Estudante de Ciência da Computação - UFPR.
 
-:honeybee: Gerente de projeto / Desenvolvedor de software embarcado na Equipe Yapira de Robótica UFPR
+:honeybee: Gerente de projeto / Desenvolvedor de software embarcado na Equipe Yapira de Robótica UFPR.
 
 :smiley: Áreas de interesse:
 
