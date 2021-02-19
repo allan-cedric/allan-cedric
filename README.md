@@ -11,7 +11,7 @@
 :gear: Principais tecnologias:
 
 ![C_Logo](https://img.icons8.com/color/48/000000/c-programming.png)![CPP_Logo](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
-![Python_Logo](https://img.icons8.com/color/48/000000/python.png)![Git_Logo](https://img.icons8.com/color/48/000000/git.png)![GitHub_Logo](https://img.icons8.com/color/48/000000/github.png)
+![Python_Logo](https://img.icons8.com/color/48/000000/python.png)![Git_Logo](https://img.icons8.com/color/48/000000/git.png)![GitHub_Logo](https://img.icons8.com/material-outlined/48/000000/github.png)
 
 :speech_balloon: Contato:
 
