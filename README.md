@@ -2,7 +2,7 @@
 
 :classical_building: Computer Science Student at UFPR.
 
-:honeybee: Project manager and Embedded Software Developer at Yapira UFPR Robotics Team
+:honeybee: Project manager and Embedded Software Developer at Yapira UFPR Robotics Team.
 
 :smiley: Interests:
 
