@@ -1,19 +1,19 @@
 ## Allan Cedric G. B. Alves da Silva :sunglasses:
 
-:classical_building: Estudante de Ciência da Computação - UFPR.
+:classical_building: Computer Science Student at UFPR.
 
-:honeybee: Gerente de projeto / Desenvolvedor de software embarcado na Equipe Yapira de Robótica UFPR.
+:honeybee: Project manager and Embedded Software Developer at Yapira UFPR Robotics Team
 
-:smiley: Áreas de interesse:
+:smiley: Interests:
 
-    - Sistemas embarcados | Robótica | IoT | IA
+    - Embedded Systems | Robotics | IoT | AI
 
-:gear: Principais tecnologias:
+:gear: Tools:
 
 ![C_Logo](https://img.icons8.com/color/48/000000/c-programming.png)![CPP_Logo](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
 ![Python_Logo](https://img.icons8.com/color/48/000000/python.png)![Git_Logo](https://img.icons8.com/color/48/000000/git.png)![GitHub_Logo](https://img.icons8.com/material-outlined/48/000000/github.png)
 
-:speech_balloon: Contato:
+:speech_balloon: Contact:
 
     - acgbas19@inf.ufpr.br ou allan.py3000@gmail.com
 
