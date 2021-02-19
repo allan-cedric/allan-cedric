@@ -13,6 +13,8 @@
 ![C_Logo](https://img.icons8.com/color/48/000000/c-programming.png)![CPP_Logo](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
 ![Python_Logo](https://img.icons8.com/color/48/000000/python.png)![Git_Logo](https://img.icons8.com/color/48/000000/git.png)![GitHub_Logo](https://img.icons8.com/material-outlined/48/000000/github.png)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allan-cedric&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 :speech_balloon: Contact:
 
     - acgbas19@inf.ufpr.br ou allan.py3000@gmail.com
