@@ -8,9 +8,10 @@
 
     - Sistemas embarcados | Robótica | IoT | IA
 
-:gear: Tecnologias:
+:gear: Principais tecnologias:
 
-![C++ Logo](https://img.icons8.com/color/48/000000/c-programming.png)
+![C_Logo](https://img.icons8.com/color/48/000000/c-programming.png)![CPP_Logo](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+![Python_Logo](https://img.icons8.com/color/48/000000/python.png)
 
 :speech_balloon: Contato:
 
