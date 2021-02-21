@@ -17,6 +17,6 @@
 
 :speech_balloon: Contact:
 
-    - acgbas19@inf.ufpr.br ou allan.py3000@gmail.com
+    - acgbas19@inf.ufpr.br or allan.py3000@gmail.com
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allan-cedric)](https://github.com/anuraghazra/github-readme-stats)
