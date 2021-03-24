@@ -6,8 +6,11 @@
 
 :smiley: Interests:
 
-    - Embedded Systems | Robotics | IoT | AI
-
+* Embedded Systems
+* Robotics
+* IA
+* IoT
+ 
 :gear: Main tools:
 
 ![C_Logo](https://img.icons8.com/color/48/000000/c-programming.png)![CPP_Logo](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
