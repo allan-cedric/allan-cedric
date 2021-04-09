@@ -8,7 +8,7 @@
 
 * `Embedded Systems`
 * `Robotics`
-* `IA`
+* `AI`
 * `IoT`
  
 :gear: Main tools:
