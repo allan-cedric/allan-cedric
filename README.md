@@ -2,7 +2,9 @@
 
 :classical_building: Computer Science Student at UFPR.
 
-:honeybee: Embedded Software Developer at Yapira UFPR Robotics Team.
+:train2: Embedded Software Analyst at Alta Rail Technology (2022 - )
+
+:honeybee: Embedded Software Developer and Project Manager at Yapira UFPR Robotics Team (2019 - 2023)
 
 :smiley: Interests:
 
