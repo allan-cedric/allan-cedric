@@ -1,8 +1,8 @@
 ## Allan Cedric G. B. Alves da Silva :sunglasses:
 
-:classical_building: Computer Science Student at UFPR.
+:classical_building: Bachelor of Computer Science - UFPR (2019-2024)
 
-:train2: Embedded Software Analyst at Alta Rail Technology (2022 - )
+:train2: Embedded Software Developer at Alta Rail Technology (2022 - )
 
 :honeybee: Embedded Software Developer and Project Manager at Yapira UFPR Robotics Team (2019 - 2023)
 
